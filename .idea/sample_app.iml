@@ -83,7 +83,7 @@
     <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.1.2, ruby-1.9.3-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, ruby-1.9.3-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.15, ruby-1.9.3-p392) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="turbolinks (v1.1.1, ruby-1.9.3-p392) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="turbolinks (v1.3.0, ruby-1.9.3-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.37, ruby-1.9.3-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v2.1.1, ruby-1.9.3-p392) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket (v1.0.7, ruby-1.9.3-p392) [gem]" level="application" />

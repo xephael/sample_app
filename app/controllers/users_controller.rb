@@ -4,6 +4,11 @@ class UsersController < ApplicationController
     @user = User.find(params[:id])
   end
 
+  # this method needs to be in here to provide control over your `new` view.
+  def new
+    @user = User.new
+  end
+
   def create
     @user = User.new(user_params)
     if @user.save
